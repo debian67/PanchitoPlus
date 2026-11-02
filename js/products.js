@@ -61,7 +61,7 @@ const CATEGORIES = [
     title: "Cases para iPhone",
     description: "Encuentra la funda perfecta para tu modelo.",
     blurb: "Silicona, transparentes y más",
-    image: "assets/images/case-pink.svg",
+    image: "assets/perfilPanchito.png",
     filter: { category: "cases" },
     filters: ["model", "caseType", "color", "price", "availability"]
   },
@@ -70,7 +70,7 @@ const CATEGORIES = [
     title: "Hello Kitty y amigos kawaii",
     description: "Peluches, llaveros y detalles para regalar.",
     blurb: "Peluches y regalitos",
-    image: "assets/images/plush-bunny.svg",
+    image: "assets/CasesFondo.png",
     filter: { category: "hello-kitty" },
     filters: ["character", "subcategory", "price", "availability"]
   },
@@ -79,7 +79,7 @@ const CATEGORIES = [
     title: "Anime",
     description: "Productos por serie, personaje o colección.",
     blurb: "Por serie y personaje",
-    image: "assets/images/anime-star.svg",
+    image: "assets/perfilPachito2.png",
     filter: { category: "anime" },
     filters: ["character", "subcategory", "price", "availability"]
   },
@@ -88,7 +88,7 @@ const CATEGORIES = [
     title: "Accesorios",
     description: "Cargadores, correas, soportes y más para tu celular.",
     blurb: "Para tu celular",
-    image: "assets/images/charger.svg",
+    image: "assets/perfilPanchito3.png",
     filter: { category: "accesorios" },
     filters: ["subcategory", "price", "availability"]
   },
@@ -97,7 +97,7 @@ const CATEGORIES = [
     title: "Novedades",
     description: "Lo último que entró a la tienda.",
     blurb: "Lo último en llegar",
-    image: "assets/images/stickers.svg",
+    image: "assets/perfilPanchito4.png",
     filter: { tag: "nuevo" },
     filters: ["category", "price", "availability"],
     defaultSort: "newest"
@@ -107,7 +107,7 @@ const CATEGORIES = [
     title: "Ofertas",
     description: "Precios especiales por tiempo limitado.",
     blurb: "Precios especiales",
-    image: "assets/images/mug.svg",
+    image: "assets/perfilpanchito5.png",
     filter: { tag: "oferta" },
     filters: ["category", "price", "availability"]
   }

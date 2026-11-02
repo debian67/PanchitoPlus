@@ -35,7 +35,7 @@
 
   const PLACEHOLDER_IMG = 'data:image/svg+xml,' + encodeURIComponent(
     '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400"><rect width="400" height="400" fill="#ffeef3"/>' +
-    '<text x="200" y="210" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#b9a3ab">Sin imagen</text></svg>'
+    '<text x="200" y="210" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" fill="#b9a3ab">.</text></svg>'
   );
 
   /* ---------- 2. CAPA DE DATOS ----------
